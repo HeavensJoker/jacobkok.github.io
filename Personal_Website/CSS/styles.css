@@ -1,0 +1,35 @@
+h1 {
+	font-size: 48px;
+    color: #0A4d8f; 
+}
+
+blockquote	{
+}
+
+Section {
+        background: #577332;
+        color: white;
+        padding: 10px; 
+}
+Nav {
+    background: #EAEEF7;
+    
+    
+}
+
+h3 {
+    font-family: sans-serif;
+    color: #577332;
+    
+}
+
+.button {
+    background-color: #577332;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
