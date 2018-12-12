@@ -1,7 +1,7 @@
 * {
 	box-sizing: border-box;
 }
-html {
+.html {
     font-size: 16px;
     line-height: 1.4rem;
 		font-family: 'Roboto';
@@ -18,13 +18,13 @@ img {
 		padding-left:30px;
 }
 
-footer {
+.footer {
     margin: 4rem 0rem;
     padding: 2rem 0rem;
     border-top: 1px solid #ccc;
     font-size: .8rem;
 }
-body{
+.body{
 	font-family: 'Roboto';
 	background-image: url("final-START\img\bg.jpg");
 	background-repeat: repeat;
@@ -38,7 +38,7 @@ h2{
 nav{
 
 }
-main{
+.main{
 	width: auto;
 	height: auto;
 	border: 1px solid #c3c3c3;
