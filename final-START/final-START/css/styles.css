@@ -26,7 +26,7 @@ footer {
 }
 body{
 	font-family: 'Roboto';
-	background-image: url("final-START\img\bg.jpg");
+	background-image: url("\img\bg.jpg");
 	background-repeat: repeat;
 }
 h1{
@@ -62,11 +62,4 @@ div{
 .column2{
 	float: left;
 	width: 300px;
-}
-
-.thisfont
-{
-	font-family: 'Roboto';
-	background-image: url("img\bg.jpg");
-	background-repeat: repeat;
 }
