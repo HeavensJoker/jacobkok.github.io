@@ -49,3 +49,16 @@ main{
 div{
 
 }
+.column1{
+	float: left;
+	width: 66%;
+}
+.column2{
+	float: right;
+	width: 33%;
+
+
+}
+.column3{
+
+}
