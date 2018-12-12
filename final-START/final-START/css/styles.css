@@ -1,0 +1,51 @@
+* {
+	box-sizing: border-box;
+}
+html {
+    font-size: 16px;
+    line-height: 1.4rem;
+		font-family: 'Roboto';
+		background-image: url("final-START\img\bg.jpg");
+		background-repeat: repeat;
+
+}
+img {
+	width: 100%;
+    max-width: 100%;
+		padding-top: 30px;
+		padding-right:30px;
+		padding-bottom:30px;
+		padding-left:30px;
+}
+
+footer {
+    margin: 4rem 0rem;
+    padding: 2rem 0rem;
+    border-top: 1px solid #ccc;
+    font-size: .8rem;
+}
+body{
+	font-family: 'Roboto';
+	background-image: url("final-START\img\bg.jpg");
+	background-repeat: repeat;
+}
+h1{
+	font-family: 'Slabo';
+}
+h2{
+	font-family: 'Slabo';
+}
+nav{
+
+}
+main{
+	width: auto;
+	height: auto;
+	border: 1px solid #c3c3c3;
+	flex-wrap: wrap;
+	align-content: center;
+
+}
+div{
+
+}
