@@ -55,7 +55,7 @@ div{
 }
 .column1{
 	float: left;
-	width: 66%;
+	width: 500px;
 	border: 25px black;
 	padding: 25px;
 	margin: 25px;
@@ -63,7 +63,7 @@ div{
 }
 .column2{
 	float: right;
-	width: 33%;
+	width: 300px;
 }
 
 .thisfont
