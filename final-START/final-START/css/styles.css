@@ -55,7 +55,7 @@ div{
 }
 .column1{
 	float: left;
-	width: 300px;
+	width: 50%;
 	border: 25px black;
 	padding: 25px;
 	margin: 25px;
