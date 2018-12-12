@@ -69,6 +69,6 @@ div{
 .thisfont
 {
 	font-family: 'Roboto';
-	background-image: url();
+	background-image: url("img\bg.jpg");
 	background-repeat: repeat;
 }
